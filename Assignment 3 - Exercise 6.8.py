@@ -20,6 +20,8 @@ numbers_to_words = {
 
 amount = input('Enter amount less than 1000: ')
 
+# You need to convert the input() to a number   -3
+
 amount_in_words = []
 
 if amount < 1000:
