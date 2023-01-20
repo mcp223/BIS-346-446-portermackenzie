@@ -18,5 +18,7 @@ numbers2 = np.arange(9,0,-1).reshape(3,3)
 
 numbers2
 
-numbers * numbers2
+numbers3 = numbers * numbers2 
+
+numbers3
 
